@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/olekukonko/tablewriter"
 	"github.com/skratchdot/open-golang/open"
-	"github.com/urfave/cli"
+	"github.com/swaggo/cli"
 	"io/ioutil"
 	"log"
 	"os"
