@@ -1,4 +1,4 @@
-module github.com/elek/ogh
+module github.com/cku328/ogh
 
 go 1.12
 
